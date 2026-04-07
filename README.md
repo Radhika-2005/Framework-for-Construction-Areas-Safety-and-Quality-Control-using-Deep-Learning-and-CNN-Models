@@ -97,49 +97,53 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-## 📸 Sample Outputs
+## 📸 Project Screenshots
 
-PPE detection with bounding boxes
+### 🦺 PPE Detection Results
 ![Uploading Screenshot 2026-04-04 165614.png…]()
 ![Uploading Screenshot 2025-12-08 205740.png…]()
 
-Crack detection results
+### 🧱 Crack Detection Results
 ![Uploading Screenshot 2025-12-08 210255.png…]()
 
-Failure risk prediction
+### ⚙️ Predictive Maintenance Results
 ![Uploading Screenshot 2025-12-08 210800.png…]()
 ![Uploading Screenshot 2025-12-08 210818.png…]()
 
-Dashboard visualization
+### 🖥️ Dashboard Visualization
 ![Uploading Screenshot 2025-12-08 205607.png…]()
 ![Uploading Screenshot 2025-12-08 205646.png…]()
 
-```
-## 🚀 Applications
-- Construction site safety monitoring
-- Structural health monitoring
-- Industrial predictive maintenance
-- Smart infrastructure systems
+---
 
-```
+## 🚀 Applications
+- Construction site safety monitoring  
+- Structural health monitoring  
+- Industrial predictive maintenance  
+- Smart infrastructure systems  
+
+---
+
 ## 🔮 Future Scope
-- Deployment on edge devices
-- Explainable AI integration
-- Multi-modal data fusion
+- Edge device deployment  
+- Explainable AI integration  
+- Multi-modal data integration  
 - Large-scale real-time deployment
 
-```
+---
+
 ## 👩‍💻 Team Members
-- Muthyala Radhika
-- Mannem Narsi Reddy
-- Munagala Maheswar Reddy
-- Kamalesh Krishnasamy
+- Muthyala Radhika  
+- Mannem Narsi Reddy  
+- Munagala Maheswar Reddy  
+- Kamalesh Krishnasamy  
 
-```
+---
+
 ## 🎓 Guide
-- Dr. R. Sumathi
-- Department of Computer Science and Engineering
+Dr. R. Sumathi  
 
-```
-##⭐ Support
-- If you found this project useful, consider giving it a ⭐ on GitHub!
+---
+
+## ⭐ Support
+If you found this project useful, please give it a ⭐ on GitHub!
