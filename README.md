@@ -116,29 +116,31 @@ Dashboard visualization
 
 
 ```
-🚀 Applications
+## 🚀 Applications
 Construction site safety monitoring
 Structural health monitoring
 Industrial predictive maintenance
 Smart infrastructure systems
 
-🔮 Future Scope
+```
+## 🔮 Future Scope
 Deployment on edge devices
 Explainable AI integration
 Multi-modal data fusion
 Large-scale real-time deployment
 
 ```
-👩‍💻 Team Members
+## 👩‍💻 Team Members
 Muthyala Radhika
 Mannem Narsi Reddy
 Munagala Maheswar Reddy
 Kamalesh Krishnasamy
 
 ```
-🎓 Guide
+## 🎓 Guide
 Dr. R. Sumathi
 Department of Computer Science and Engineering
 
-⭐ Support
+```
+##⭐ Support
 If you found this project useful, consider giving it a ⭐ on GitHub!
