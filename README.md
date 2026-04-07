@@ -83,7 +83,10 @@ AI-Construction-Safety-Monitoring-System/
 ├── requirements.txt
 ├── README.md
 
-````md
+## Overview Architecture
+![Uploading Screenshot 2026-04-03 162150.png…]()
+
+
 ## ▶️ How to Run
 
 ```bash
@@ -92,23 +95,27 @@ cd AI-Construction-Safety-Monitoring-System
 pip install -r requirements.txt
 streamlit run app.py
 
+```
 ## 📸 Sample Outputs
 
 PPE detection with bounding boxes
-<img width="1847" height="784" alt="Screenshot 2025-12-08 205740" src="https://github.com/user-attachments/assets/ab96a0dc-2dad-48c1-8e0f-07f72d151108" />
-<img width="1853" height="796" alt="Screenshot 2026-04-04 165614" src="https://github.com/user-attachments/assets/8be6e92a-94a8-4bd9-95ee-09bda815a76d" />
+![Uploading Screenshot 2026-04-04 165614.png…]()
+![Uploading Screenshot 2025-12-08 205740.png…]()
 
 Crack detection results
-<img width="1853" height="795" alt="Screenshot 2025-12-08 210255" src="https://github.com/user-attachments/assets/74bfe53d-1d9d-40ec-b99b-282f0c86e32e" />
+![Uploading Screenshot 2025-12-08 210255.png…]()
 
 Failure risk prediction
-<img width="1850" height="825" alt="Screenshot 2025-12-08 210800" src="https://github.com/user-attachments/assets/b7a2859b-a893-4746-b154-87a6a14f32d0" />
-<img width="1865" height="823" alt="Screenshot 2025-12-08 210818" src="https://github.com/user-attachments/assets/2bc65aa0-b49c-409f-9231-92a6ed88afde" />
+![Uploading Screenshot 2025-12-08 210800.png…]()
+![Uploading Screenshot 2025-12-08 210818.png…]()
+
 
 Dashboard visualization
-<img width="1834" height="902" alt="Screenshot 2025-12-08 205607" src="https://github.com/user-attachments/assets/3d041d12-08ce-420d-b4e7-8fe2301f6781" />
-<img width="1896" height="830" alt="Screenshot 2025-12-08 205646" src="https://github.com/user-attachments/assets/45078af7-7d4d-4b96-bc27-f7fcd1cd98c5" />
+![Uploading Screenshot 2025-12-08 205607.png…]()
+![Uploading Screenshot 2025-12-08 205646.png…]()
 
+
+```
 🚀 Applications
 Construction site safety monitoring
 Structural health monitoring
@@ -121,12 +128,14 @@ Explainable AI integration
 Multi-modal data fusion
 Large-scale real-time deployment
 
+```
 👩‍💻 Team Members
 Muthyala Radhika
 Mannem Narsi Reddy
 Munagala Maheswar Reddy
 Kamalesh Krishnasamy
 
+```
 🎓 Guide
 Dr. R. Sumathi
 Department of Computer Science and Engineering
