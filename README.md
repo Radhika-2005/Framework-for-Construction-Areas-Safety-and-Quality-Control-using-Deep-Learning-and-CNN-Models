@@ -73,6 +73,7 @@ This architecture ensures scalability, modularity, and efficient real-time proce
 ✔ Reliable performance in real-time scenarios  
 
 ## 📁 Project Structure
+
 AI-Construction-Safety-Monitoring-System/
 │
 ├── dataset/
@@ -109,38 +110,36 @@ Failure risk prediction
 ![Uploading Screenshot 2025-12-08 210800.png…]()
 ![Uploading Screenshot 2025-12-08 210818.png…]()
 
-
 Dashboard visualization
 ![Uploading Screenshot 2025-12-08 205607.png…]()
 ![Uploading Screenshot 2025-12-08 205646.png…]()
 
-
 ```
 ## 🚀 Applications
-Construction site safety monitoring
-Structural health monitoring
-Industrial predictive maintenance
-Smart infrastructure systems
+- Construction site safety monitoring
+- Structural health monitoring
+- Industrial predictive maintenance
+- Smart infrastructure systems
 
 ```
 ## 🔮 Future Scope
-Deployment on edge devices
-Explainable AI integration
-Multi-modal data fusion
-Large-scale real-time deployment
+- Deployment on edge devices
+- Explainable AI integration
+- Multi-modal data fusion
+- Large-scale real-time deployment
 
 ```
 ## 👩‍💻 Team Members
-Muthyala Radhika
-Mannem Narsi Reddy
-Munagala Maheswar Reddy
-Kamalesh Krishnasamy
+- Muthyala Radhika
+- Mannem Narsi Reddy
+- Munagala Maheswar Reddy
+- Kamalesh Krishnasamy
 
 ```
 ## 🎓 Guide
-Dr. R. Sumathi
-Department of Computer Science and Engineering
+- Dr. R. Sumathi
+- Department of Computer Science and Engineering
 
 ```
 ##⭐ Support
-If you found this project useful, consider giving it a ⭐ on GitHub!
+- If you found this project useful, consider giving it a ⭐ on GitHub!
