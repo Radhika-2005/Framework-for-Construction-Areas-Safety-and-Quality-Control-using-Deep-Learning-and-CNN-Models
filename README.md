@@ -90,7 +90,7 @@ cd AI-Construction-Safety-Monitoring-System
 pip install -r requirements.txt
 streamlit run app.py
 
-📸 Sample Outputs
+## 📸 Sample Outputs
 
 PPE detection with bounding boxes
 <img width="1847" height="784" alt="Screenshot 2025-12-08 205740" src="https://github.com/user-attachments/assets/ab96a0dc-2dad-48c1-8e0f-07f72d151108" />
