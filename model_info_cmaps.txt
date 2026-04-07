@@ -1,0 +1,29 @@
+NASA C-MAPS PREDICTIVE MAINTENANCE LSTM MODEL - FINAL REPORT
+================================================================================
+
+MODEL PERFORMANCE:
+  Accuracy:     98.55%
+  Precision:    0.7562
+  Recall:       0.8990
+  F1-Score:     0.8214
+  AUC-ROC:      0.9971
+  Sensitivity:  0.8990
+  Specificity:  0.9888
+
+CONFUSION MATRIX:
+  TN: 7859
+  FP: 89
+  FN: 31
+  TP: 276
+
+DATA INFO:
+  Train engines: 100
+  Test engines:  100
+  Train sequences: 15731
+  Test sequences:  8255
+  Sequence length:  50
+  Sensor features:  21
+  RUL threshold:    30
+
+Model params: 552,449
+Execution time: 966.6 seconds

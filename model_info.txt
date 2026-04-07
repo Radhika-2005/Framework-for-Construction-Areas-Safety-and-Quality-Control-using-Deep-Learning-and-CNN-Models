@@ -1,0 +1,16 @@
+CONCRETE CRACK DETECTION MODEL
+====================================
+Test Accuracy: 93.75%
+AUC-ROC: 0.9931
+
+Sensitivity: 0.9767
+Specificity: 0.8919
+
+Dataset: 320 train, 80 test
+Image Size: 96x96
+Model Parameters: 1,731,905
+Training Epochs: 8
+
+Confusion Matrix:
+TN: 33  FP: 4
+FN: 1  TP: 42
