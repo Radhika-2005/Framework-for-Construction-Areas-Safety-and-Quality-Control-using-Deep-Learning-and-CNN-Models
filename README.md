@@ -83,7 +83,9 @@ AI-Construction-Safety-Monitoring-System/
 ├── requirements.txt
 ├── README.md
 
+````md
 ## ▶️ How to Run
+
 ```bash
 git clone https://github.com/your-username/AI-Construction-Safety-Monitoring-System.git
 cd AI-Construction-Safety-Monitoring-System
